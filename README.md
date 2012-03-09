@@ -4,7 +4,7 @@ Changeling is a tool used to keep track of which database changes / scripts have
 
 ## Installation
 
-      npm install -g changeling
+      npm install -g XXX
 
 ## Usage
 
