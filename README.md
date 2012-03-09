@@ -1,6 +1,6 @@
 # Changeling
 
-Changeling is a tool used to keep track of which database changes / scripts have been run and allow you, in one command, to run those that need to be.
+Changeling is a tool used to keep track of which database changes / scripts have been run and allow you, in one command, to run those that need to be executed.
 
 ## Installation
 
